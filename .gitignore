@@ -1,0 +1,9 @@
+app/__pycache__/
+app/__pycache__/*
+stt-app-project-serviceAccount_APIKEY.json
+venv/
+venv/*
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
